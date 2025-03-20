@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+.toggle-on {
+    background-color: green;
+    color: white;
+  }
+  
+  .toggle-off {
+    background-color: gray;
+    color: black;
+  }
+  
+  button[yt-upload] {
+  background-color: #FF0000; /* YouTube red */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button[yt-upload]:hover {
+  background-color: #CC0000;
+}
